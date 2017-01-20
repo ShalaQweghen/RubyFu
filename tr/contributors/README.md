@@ -1,29 +1,29 @@
-# Contributors
+# Katkıda bulunanlar
 
 
 <center>![](Ruby_Loves_Us.jpg)
 
 
-<center>**Big love to those people who support this book by any meaning.**
+<center>**Herhangi bir şekilde bu kitaba katkıda bulunmuş herkese kocaman sevgiler.**
 <br><br><br>
-## Founder
+## Kurucu
 - KING SABRI | @KINGSABRI
 
-## Authors 
+## Yazarlar 
 - KING SABRI | @KINGSABRI
-- [WRITE MORE AND PLACE YOUR NAME HERE]
+- [DAHA FAZLA YAZ VE İSMİNİ BURAYA KOY]
 
-## Contributors
-- Bashar - *Technical Editor*
-- William Coppola | @SubINacls - *Spreading & advising*
-- Brendan Baldwin | @usergenic - *Gave away Rubyfu github org. name & twitter account*
-- Ahmed Aboul-Ela | @aboul3la - *Enhancing Book web design*
-- Sven Vetsch | @disenchant - *PR proofreading*
-- Christian Fernandez | @b1naryFreed0m - *Code and PR*
-- Arron Crawford | @SquirrelsNabrrl - *Social media, background, advices and more*
+## Katkıda bulunanlar
+- Bashar - *Teknik Editör*
+- William Coppola | @SubINacls - *Reklam ve tanıtım*
+- Brendan Baldwin | @usergenic - *Rubyfu github org. ismini & twitter hesabını bağışladı*
+- Ahmed Aboul-Ela | @aboul3la - *Kitap web tasarımını geliştirme*
+- Sven Vetsch | @disenchant - *PR düzeltme*
+- Christian Fernandez | @b1naryFreed0m - *Kod ve PR*
+- Arron Crawford | @SquirrelsNabrrl - *Sosyal medya, arka plan, tavsiye ve daha fazlası*
 
-## Sponsors
-- [Arab Security Community (Security4arabs)][1]
+## Sponsorlar
+- [Arap Güvenlik Topluluğu (Security4arabs)][1]
 
 
 <br><br><br>
