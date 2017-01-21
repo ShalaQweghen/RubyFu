@@ -1,26 +1,26 @@
-# Beginners
+# Yeni Başlayanlar
 
-## Stretching - for beginners
-OK, if you believe you're a beginner and need to worm-up, here's a list of tasks to do **using ruby** before start this book.
+## Isınma Hareketleri - yeni başlayanlar için
+Pekala, eğer başlangıç seviyesinde olduğunuza ve ısınmaya ihtiyacınız olduğuna inanıyorsanız, bu kitaba başlamadan önce **ruby kullanarak** yapılacak işlemlerin bir listesi burada mevcut.
 
-- **String**
-    - Print the following string `\x52\x75\x62\x79\x46\x75` as it is, it should **NOT** be resolved to characters.
-    - You have string `RubyFu` convert this string to an array (each character is an element).
-- **Arrays**
-    - You have the following array `["R", "u", "b", "y", "F", "u"]` convert it to string `RubyFu`.
-    - You have the following array `["1", "2", "3", "4"]`, calculate the sum of all elements
-- **Files and Folders**
-    - Find all files ends with `.jpg` or `.pdf` or `.docx` or `.zip` in your Downloads folder
-    - Create folder called `ruby-testfu` and copy all found files(from previous task) into it.
-- **Network**
-    - Create simple TCP server listening on port 3211. This server prints `date and time` .
-    - Create simple TCP client to connect to previous server and print what server send.
+- **Dizgiler (Strings)**
+	- `\x52\x75\x62\x79\x46\x75` dizgisini olduğu gibi yazdırın, normal karakterlere dönüştürül**ME**mesi gerekiyor.
+	- `RubyFu` dizgisini her karakter bir öğesini oluşturacak şekilde bir diziye dönüştürün.
+- **Diziler (Arrays)**
+	- `["R", "u", "b", "y", "F", "u"]` dizisini `RubyFu` dizgisine dönüştürün.
+	- `["1", "2", "3", "4"]` dizisinin öğelerinin rakamsal toplamını hesaplayın.
+- **Dosyalar ve Klasörler**
+	- İndirilenler klasörünüzdeki `.jpg`, `.pdf`, `.docx` veya `.zip` uzantısıyla biten tüm dosyaları bulun.
+	- `ruby-testfu` isimli bir klasör oluşturun ve (bir önceki işlemde) bulduğunuz bütün dosyları oraya kopyalayın.
+- **Ağ**
+	- 3211 kapısını dinleyen basit bir TCP sunucusu oluşturun. Bu sunucu `tarih ve saat`i göndersin.
+	- Oluşturduğunuz sunucuya bağlanacak basit bir TCP istemcisi oluşturun ve sunucunun gönderdiklerini yazdırın.
 
-A good list of [References][1] under Beginners part.
+Yeni başlayanlar kısmında yararlı bir [Kaynaklar][1] listesi mevcut.
 
 
-## Challenge Your Self!
-There are some awesomes website that push your programming skills via interactive way and I really encourage you to go through one or more of them.
+## Kendinize Meydan Okuyun!
+Etkileşimli bir şekilde programlama yetilerinizi geliştirmenize yardımcı olan birkaç harika web sitesi mevcut ve bir veya birkaçını denemenizi oldukça tavsiye ediyorum.
 * [Codewars][5]
 * [rubeque][6]
 * [Hackerrank][7]
